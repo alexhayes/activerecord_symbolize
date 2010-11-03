@@ -1,0 +1,8 @@
+MIT-LICENSE
+Manifest
+README
+Rakefile
+activerecord_symbolize.gemspec
+init.rb
+lib/symbolize.rb
+test/symbolize_test.rb
